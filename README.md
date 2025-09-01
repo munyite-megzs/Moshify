@@ -16,6 +16,6 @@ You can find it here: [Code with Mosh - HTML & CSS Course](https://members.codew
 
 # Setting Up the Project  
 
--Used Normalize.css
--added the project to git
+-Used Normalize.css  
+-added the project to git  
 
