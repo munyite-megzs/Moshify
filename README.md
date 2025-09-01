@@ -9,9 +9,13 @@ You can find it here: [Code with Mosh - HTML & CSS Course](https://members.codew
      - CSS Peek  
      - Prettier  
      - Highlight Matching Tag  
-     - TODO Highlight  
+     - TODO Highlight
+     - Live Server 
 
 2. **Git**
 
-# Setting Up the Project
+# Setting Up the Project  
+
+-Used Normalize.css
+-added the project to git
 
